@@ -16,7 +16,7 @@
 // A API final usa HTTPS com o certificado raiz de root_ca.h.
 const char *API_BASE_URL = "https://ai.kronux.com.br";
 const char *DEVICE_ID = "esp32-cam-01";
-const char *DEVICE_TOKEN = "f383111d48c7512083eab24db7e77967d12a2fa751d9602044d5cf4ad4780628";
+const char *DEVICE_TOKEN = "token site";
 const char *CONFIG_PORTAL_SSID = "Esteira6";
 const char *CONFIG_PORTAL_PASSWORD = "@208862Sfc";
 
