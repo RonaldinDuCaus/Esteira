@@ -17,7 +17,7 @@
 const char *API_BASE_URL = "https://ai.kronux.com.br";
 const char *DEVICE_ID = "esp32-esteira-01";
 const char *CAMERA_DEVICE_ID = "esp32-cam-01";
-const char *DEVICE_TOKEN = "f383111d48c7512083eab24db7e77967d12a2fa751d9602044d5cf4ad4780628";
+const char *DEVICE_TOKEN = "token site";
 const char *CONFIG_PORTAL_SSID = "Fabrica20";
 const char *CONFIG_PORTAL_PASSWORD = "@208862Sfc";
 
